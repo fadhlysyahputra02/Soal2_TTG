@@ -1,0 +1,5 @@
+1. setelah git clone jalankan "npm install"
+2. modifikasi src/app.module.ts apabila username dan password mysql anda berbeda, sesuaikan
+3. buat database di mysql sesuai nama database di file app.module.ts
+4. jalankan "npm run start:dev"
+5. jika berhasil terminal akan menampilkan [NestApplication] Nest application successfully started 
